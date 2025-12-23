@@ -17,11 +17,10 @@ Note that in Blender you can export a single selected object, multiple selected 
 
 <img width="299" height="204" alt="Viewport Overlays" src="https://github.com/user-attachments/assets/c6fe3872-5936-4f5f-b830-afe4b763bd2a" /><br />
 ⬇<br />
-(This is optional but helps to see if any faces are flipped by accident.)<br />
+This is optional but helps to see if any faces are flipped by accident:<br />
 <img width="295" height="88" alt="Geometry" src="https://github.com/user-attachments/assets/52870d25-036d-4a59-a431-4e942aad8fde" /><br />
 
-## Snap to grid helps making precise changes:
-
+Snap to grid helps making precise changes:<br />
 <img width="215" height="275" alt="Snap Base" src="https://github.com/user-attachments/assets/f82447d0-96e3-4b58-912a-77b65d7d6b5f" /><br />
 
 ## Save the settings as startup default:
@@ -73,3 +72,5 @@ Edit → Preferences → System:
 | Ctrl+J               | Join |
 | Ctrl+A               | Apply Scale, Rotation, ... |
 | *N/A* | Object → Set Origin → Origin to Geometry |
+
+Remember to Apply (Ctrl+A) at least **Scale** and **Rotation** to all objects, otherwise Boolean operations (intersect, union, difference) will work unpredictably.
