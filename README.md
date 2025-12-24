@@ -23,10 +23,11 @@ This is optional but helps to see if any faces are flipped by accident:<br />
 Snap to grid helps making precise changes:<br />
 <img width="215" height="275" alt="Snap Base" src="https://github.com/user-attachments/assets/f82447d0-96e3-4b58-912a-77b65d7d6b5f" /><br />
 
-## Save the settings as startup default:
+## Save the settings as a startup default:
 
 <img width="387" height="183" alt="J  Import" src="https://github.com/user-attachments/assets/2f678b7d-f696-4eab-9563-e3c43b7a3276" /><br />
 
+If you want a clean slate, before saving the startup default, delete everything from the Scene Collection (the default scene, camera, light source and the initial cube object) and click Numpad 7 to set the view from above (XY view).
 
 # Optional Plugins and Settings:
 
@@ -68,9 +69,25 @@ Edit → Preferences → System:
 
 | Object Mode | |
 |-------------|-|
+| Shift+A              | Add |
 | Shift+D              | Duplicate Object |
 | Ctrl+J               | Join |
 | Ctrl+A               | Apply Scale, Rotation, ... |
 | *N/A* | Object → Set Origin → Origin to Geometry |
+
+| Camera | |
+|--------|-|
+| Numpad 7 | XY View |
+| Numpad 3 | YZ View |
+| Numpad 1 | XZ View |
+| Numpad 9 | Flip View 180° |
+| Numpad . | Zoom In And Center on Selected Object |
+
+|Bool Tool Plugin | |
+|----------------|-|
+| Ctrl+Keypad -  | Boolean Difference |
+| Ctrl+Keypad +  | Boolean Union |
+| Ctrl+Keypad /  | Boolean Slice |
+| Ctrl+Keypad *  | Boolean Intersection |
 
 Remember to Apply (Ctrl+A) at least **Scale** and **Rotation** to all objects, otherwise Boolean operations (intersect, union, difference) will work unpredictably.
