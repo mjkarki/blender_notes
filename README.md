@@ -85,9 +85,9 @@ Edit → Preferences → System:
 
 |Bool Tool Plugin | |
 |----------------|-|
-| Ctrl+Keypad -  | Boolean Difference |
-| Ctrl+Keypad +  | Boolean Union |
-| Ctrl+Keypad /  | Boolean Slice |
-| Ctrl+Keypad *  | Boolean Intersection |
+| Ctrl+Numpad -  | Boolean Difference |
+| Ctrl+Numpad +  | Boolean Union |
+| Ctrl+Numpad /  | Boolean Slice |
+| Ctrl+Numpad *  | Boolean Intersection |
 
 Remember to Apply (Ctrl+A) at least **Scale** and **Rotation** to all objects, otherwise Boolean operations (intersect, union, difference) will work unpredictably.
