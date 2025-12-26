@@ -3,13 +3,13 @@
 How to use Blender for 3D printing: settings, optional plugins and some helpful shortcuts.
 
 
-# Blender 3D Print Settings
+## Blender 3D Print Settings
 
 These settings will ensure that measurements are compatible with your favorite slicer (e.g. PrusaSlicer) when exporting to STL (File → Export → STL).
 
 Note that in Blender you can export a single selected object, multiple selected objects, or all objects at once into a single STL file.
 
-## These changes will set measuing units to millimeters and adjust the UI to display them correctly:
+### These changes will set measuring units to millimeters and adjust the UI to display them correctly:
 
 <img width="250" height="412" alt="o~ Scene" src="https://github.com/user-attachments/assets/f74fb0c4-865a-4ff1-9393-45148b9c5b25" /><br />
 
@@ -23,13 +23,13 @@ This is optional but helps to see if any faces are flipped by accident:<br />
 Snap to grid helps making precise changes:<br />
 <img width="215" height="275" alt="Snap Base" src="https://github.com/user-attachments/assets/f82447d0-96e3-4b58-912a-77b65d7d6b5f" /><br />
 
-## Save the settings as a startup default:
+### Save the settings as a startup default:
 
 <img width="387" height="183" alt="J  Import" src="https://github.com/user-attachments/assets/2f678b7d-f696-4eab-9563-e3c43b7a3276" /><br />
 
 If you want a clean slate, before saving the startup default, delete everything from the Scene Collection (the default scene, camera, light source and the initial cube object) and click Numpad 7 to set the view from above (XY view).
 
-# Optional Plugins and Settings:
+## Optional Plugins and Settings:
 
 Edit → Preferences → Get Extensions:
 
@@ -40,7 +40,7 @@ Edit → Preferences → System:
 <img width="562" height="100" alt="v Memory   Limits" src="https://github.com/user-attachments/assets/da9ee530-992d-4b81-8bf2-ae5643c923d6" />
 
 
-# Useful Keyboard Shortcuts etc.
+## Useful Keyboard Shortcuts etc.
 
 | Common | |
 |--------|-|
