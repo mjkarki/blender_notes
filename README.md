@@ -42,8 +42,8 @@ Edit → Preferences → System:
 
 ## Useful Keyboard Shortcuts etc.
 
-| Common | |
-|--------|-|
+| Common               | |
+|----------------------|-|
 | G                    | Grab (Move) |
 | R                    | Rotate |
 | S                    | Scale |
@@ -54,8 +54,8 @@ Edit → Preferences → System:
 | T                    | Toggle Toolbar |
 | N                    | Toggle Sidebar |
 
-| Edit Mode | |
-|-----------|-|
+| Edit Mode            | |
+|----------------------|-|
 | Ctrl+B               | Bevel Edges |
 | Ctrl+R               | Loop Cut |
 | Shift+Tab            | Toggle Snap |
@@ -64,30 +64,28 @@ Edit → Preferences → System:
 | 1, 2, 3              | Select Mode: Vertex, Edge, Face |
 | V                    | Set Handle Type (Curves) |
 | M → By Distance      | Merge Vertices |
-| Alt+N                | Flip Normals (Faces) |
-| *N/A* | Select → Select All by Trait → Non Manifold |
 
-| Object Mode | |
-|-------------|-|
+| Object Mode          | |
+|----------------------|-|
 | Shift+A              | Add |
 | Shift+D              | Duplicate Object |
 | Ctrl+J               | Join |
 | Ctrl+A               | Apply Scale, Rotation, ... |
-| *N/A* | Object → Set Origin → Origin to Geometry |
+| *N/A*                | Object → Set Origin → Origin to Geometry |
 
-| Camera | |
-|--------|-|
-| Numpad 7 | XY View |
-| Numpad 3 | YZ View |
-| Numpad 1 | XZ View |
-| Numpad 9 | Flip View 180° |
-| Numpad . | Zoom In And Center on Selected Object |
+| Camera               | |
+|----------------------|-|
+| Numpad 7             | XY View |
+| Numpad 3             | YZ View |
+| Numpad 1             | XZ View |
+| Numpad 9             | Flip View 180° |
+| Numpad .             | Zoom In And Center on Selected Object |
 
-|Bool Tool Plugin | |
-|----------------|-|
-| Ctrl+Numpad -  | Boolean Difference |
-| Ctrl+Numpad +  | Boolean Union |
-| Ctrl+Numpad /  | Boolean Slice |
-| Ctrl+Numpad *  | Boolean Intersection |
+| Bool Tool Plugin     | |
+|----------------------|-|
+| Ctrl+Numpad -        | Boolean Difference |
+| Ctrl+Numpad +        | Boolean Union |
+| Ctrl+Numpad /        | Boolean Slice |
+| Ctrl+Numpad *        | Boolean Intersection |
 
 Remember to Apply (Ctrl+A) at least **Scale** and **Rotation** to all objects, otherwise Boolean operations (intersect, union, difference) will work unpredictably.
