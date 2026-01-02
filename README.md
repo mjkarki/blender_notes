@@ -71,6 +71,7 @@ Edit → Preferences → System:
 | Shift+D              | Duplicate Object |
 | Ctrl+J               | Join |
 | Ctrl+A               | Apply Scale, Rotation, ... |
+| F2                   | Rename Object |
 | *N/A*                | Object → Set Origin → Origin to Geometry |
 
 | Camera               | |
