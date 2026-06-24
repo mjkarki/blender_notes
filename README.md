@@ -64,7 +64,7 @@ Edit → Preferences → System:
 | 1, 2, 3              | Select Mode: Vertex, Edge, Face |
 | V                    | Set Handle Type (Curves) |
 | M → By Distance      | Merge Vertices |
-| Ctrl+X.              | [Deleting & Dissolving](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/delete.html) |
+| Ctrl+X               | [Deleting & Dissolving](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/delete.html) |
 
 | Object Mode          | |
 |----------------------|-|
