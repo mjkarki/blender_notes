@@ -65,6 +65,7 @@ Edit → Preferences → System:
 | V                    | Set Handle Type (Curves) |
 | M → By Distance      | Merge Vertices |
 | Ctrl+X               | [Deleting & Dissolving](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/delete.html) |
+| *N/A*                | [Clean Up](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/mesh/cleanup.html) |
 
 | Object Mode          | |
 |----------------------|-|
