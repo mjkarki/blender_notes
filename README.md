@@ -94,4 +94,6 @@ Edit → Preferences → System:
 
 Remember to Apply (Ctrl+A) at least **Scale** and **Rotation** to all objects, otherwise Boolean operations (intersect, union, difference) will work unpredictably.
 
-To apply modifiers (e.g. Boolean operations), select all objects and select Object → Convert → Mesh to apply modifiers. Ensure that all nested modifiers are also converted. This is needed, if you don't immediately appli modifiers and instead rely on STL export "Apply Modifiers". Unfortunately it does not seem to work in predictable manner.
+To apply modifiers (e.g. Boolean operations), select all objects and select Object → Convert → Mesh.
+
+STL export: Select object to be exported then File → Export → STL and set "Selection Only" and "Apply Modifiers". This ensures that hiddent objects are not exported and all modifiers are applied.
