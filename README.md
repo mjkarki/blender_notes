@@ -84,6 +84,7 @@ Edit → Preferences → System:
 | Numpad 1             | XZ View |
 | Numpad 9             | Flip View 180° |
 | Numpad .             | Zoom In And Center on Selected Object |
+| Numpad 0             | Camera view (requires a camera), check also "View" tab and "Camera to View" checkbox |
 
 | Bool Tool Plugin     | |
 |----------------------|-|
@@ -96,4 +97,4 @@ Remember to Apply (Ctrl+A) at least **Scale** and **Rotation** to all objects, o
 
 To apply modifiers (e.g. Boolean operations), select all objects and select Object → Convert → Mesh.
 
-STL export: Select object to be exported then File → Export → STL and set "Selection Only" and "Apply Modifiers". This ensures that hiddent objects are not exported and all modifiers are applied.
+STL export: Select object to be exported then File → Export → STL and set "Selection Only" and "Apply Modifiers". This ensures that hidden objects are not exported and all modifiers are applied.
