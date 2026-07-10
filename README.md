@@ -73,6 +73,7 @@ Edit → Preferences → System:
 | Shift+D              | Duplicate Object |
 | Ctrl+J               | Join |
 | Ctrl+A               | Apply Scale, Rotation, ... |
+| Alt+Enter            | Apply entered value to all selected objects (alternative is Alt+Click) |
 | F2                   | Rename Object |
 | *N/A*                | Object → Set Origin → Origin to Geometry |
 
