@@ -59,6 +59,7 @@ Edit → Preferences → System:
 | Ctrl+B               | Bevel Edges |
 | Ctrl+R               | Loop Cut |
 | Shift+Tab            | Toggle Snap |
+| I                    | Insert Faces |
 | E                    | Extrude |
 | F                    | Fill |
 | 1, 2, 3              | Select Mode: Vertex, Edge, Face |
