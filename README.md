@@ -53,6 +53,7 @@ Edit → Preferences → System:
 | Shift+Z              | Switch between Viewport Shading (Wireframe, Solid) |
 | T                    | Toggle Toolbar |
 | N                    | Toggle Sidebar |
+| Shift+R              | Repeat |
 
 | Edit Mode            | |
 |----------------------|-|
